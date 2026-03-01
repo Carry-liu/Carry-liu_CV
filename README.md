@@ -24,4 +24,4 @@ JavaScript | TypeScript | Node.js | React | Next.js
 ![Russian](https://img.shields.io/badge/Russian-Native-yellow?style=flat-square)
 
 📫 **How to reach me:**
-[LinkedIn](https://www.linkedin.com/in/liudmyla-tarasenko-07993556) | [Telegram](https://t.me/Liudmyla) | [Email](mailto:metropolitan.free@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/liudmyla-tarasenko) | [Telegram](https://t.me/Liudmyla) | [Email](mailto:metropolitan.free@gmail.com)
