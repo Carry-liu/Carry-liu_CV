@@ -12,7 +12,7 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 - [Filmoteka](https://github.com/Carry-liu/04-react-query) – a movie search web application built with React, REST API, and localStorage. Implemented features include movie search, detailed movie information, and adding items to “Watched” and “Queue” lists.
 
-- [NoteHub](https://github.com/Carry-liu/05-notehub) - a full-featured NoteHub web application that allows users to create, search, paginate, and delete personal notes using a REST API backend. Implemented dynamic data fetching, form validation, modal workflows, and optimized search with debouncing. The application integrates server state management with a modern React architecture and follows strict TypeScript and component-structure standards.  
+- [NoteHub](https://github.com/Carry-liu/09-auth) - a full-featured NoteHub web application that allows users to create, search, paginate, and delete personal notes using a REST API backend. Implemented dynamic data fetching, form validation, modal workflows, and optimized search with debouncing. The application integrates server state management with a modern React architecture and follows strict TypeScript and component-structure standards.  
 
 - [PetSearch](https://github.com/bozhenko-zakhar/goit-markup-js-project) – a team-based front-end web project focused on developing a responsive multi-page website using modern HTML, CSS, and JavaScript. Worked within a shared GitHub repository, contributing to UI layout implementation, component styling, and cross-browser responsive behavior. The project followed real-world team workflows including version control, branching, code reviews, and integration of multiple UI sections into a cohesive product.
 
